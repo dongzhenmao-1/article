@@ -1,0 +1,73 @@
+#include <iostream>
+#include <algorithm>
+#include <set>
+#include <math.h>
+#include <random>
+
+typedef long long lnt;
+
+inline int input() {
+    int x; std::cin >> x;
+    return x;
+}
+
+std::mt19937 _gen(time(nullptr));
+
+double hash_list[256];
+
+void get_hash_list() {
+	for (int i = 0; i < 256; ++i) {
+		hash_list[i] = (i - 128) / 128.0;
+	}
+	std::shuffle(hash_list, hash_list + 256, _gen);
+}
+
+double hash(int x) {
+	return hash_list[x & 255];
+}
+
+double fade(double x) {
+	return x * x * x * (x * (x * 6 - 15) + 10);
+}
+
+double perlin(double x) {
+	int xl = floor(x), xr = xl + 1;
+	double dx = x - xl;
+	double gl = hash(xl), gr = hash(xr);
+	double vl = gl * (x - xl), vr = gr * (x - xr);
+	double u = fade(dx);
+	double res = vl + u * (vr - vl);
+	return res;
+}
+
+int res[256];
+const int rg = 190;
+
+void solve() {
+	get_hash_list();
+	for (int i = 0; i < rg; ++i) {
+		res[i] = int(perlin(i * 0.01) * 50) + 50 ;
+	}
+	putchar(10);
+	for (int line = 0; line < 100; ++line) {
+		for (int i = 0; i < rg; ++i) {
+			if (res[i] >= line) {
+				printf("*");
+			} else {
+				printf(" ");
+			}
+		}
+		putchar(10);
+	}
+}
+
+int main() {
+    std::cin.tie(nullptr)->sync_with_stdio(false);
+    
+    for (int i = 0; i < 1; ++i) {
+    	solve();
+    }
+
+    return 0;
+}
+
