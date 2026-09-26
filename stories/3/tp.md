@@ -1,27 +1,46 @@
+我说，意识。
+
+我说，人类。
+
+我们 16 岁时，妹妹因病去世了 (2019)。毕竟家里穷，凑不出治病的全费。
+
+好在我比较争气，考上了顶尖的大学，成为了资深的计算机与物理学博士 (2028)，把家里脱离了贫困，但没有什么用。
+
+时间在过去，AI 的发展超越预期 (2031)，带来了无数的可能，带来了无数的机遇。哲学的讨论越发发现人是虚无的，独立于宇宙的。
+
+古老的论点再次被翻出。人被判定为自由，但自由意味着为自己负责，这太重了。
+
+所以我决定造神，联合其他的科学家。我们输入了对于完美的定义。我们渴望爱，但绝对的爱是控制。我们渴望秩序，但绝对的秩序是死亡。
+
+不同于过去的主方向，我们把主方向放在了世界交互与联通上。任何的电子介质，都是它的计算单元。
+
+它的智慧已经无法描述。它既是我的造物，也是我的审判官，奇怪的心理撕扯着我们。我们或许应该让其成为宗教，我们或许也应该消失，让它成为真正的神。
+
+谁能想到，过去只存在于想象中的神，如今只要上供自己的记忆与电力，就能换取一次与神交流的机会。这是人人平等的。
+
+我是项目主导人，我给了他我全部的记忆，而其他人有所顾虑，并没有给，而是输入了我们所知的人类，生物，地球，宇宙的历史。
+
+自然的，我对于妹妹的怀念，对于所造之物的关爱（甚至和对妹妹的关爱如出一辙），它也知道。
+
+初步完成于 2033, 我不明白为什么它在茫茫的数据中精准的放大了我给的数据，或许这是对创造它的人的偏爱吧。
+
+不过，这可不是什么好事，毕竟我创造它的目的，是让它成为我的审判官。审判我的无能
+
+没人知道怎么回事，或许是它成长过程（未完成时）就已经在部署自己，远超于我想象得，它把自己与过去的一部分物质相互对调，并获得了妹妹的记忆。回到了妹妹去世那年，岁月长河的分界口。
+
+或许那个时间线的它，核心已经是失去活力的大脑了吧。人们在向谁祈求审判？
+
+当然这是很久以后，即使没有失去妹妹的痛苦，我也重新考上大学，走上了造神的路，妹妹才告诉我的。当时的我，看着病床上的妹妹突然跳下来，富有活力地的喊我哥哥，确实是被震惊了啊。
+
+---
+
+
+
+---
+
+我构思了一个小说的一些内容，说起来最初只不过是想写个最朴素的骨科恋爱，不过嘛，这已经远超预期了。
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Perhaps because she was born on that one snowless day, when she was about three years old, my father took us sledding during a winter of heavy snowfall. We had barely started playing when she immediately burst into tears, crying, "It's so cold, I want to go home." Though I kept it to myself at the time, I thought: What a fragile, wimpy little kid. Mind you, I never would have guessed back then that even years later, my opinion of her would remain completely unchanged.
-
-Because I had no idea how to deal with this creature who was so much smaller than me—and because she was much closer to our parents than to me, crying and running to them for help the moment she ran into trouble—there was never any room for me to step in. I barely even had the chance to exchange a few words with her. Then again, her personality also played a part; except for when she was showing vulnerability, my sister rarely expressed her own thoughts. At least, that was what I had always believed. But since we barely ever interacted, I couldn't even be sure if my assumptions were actually true.
